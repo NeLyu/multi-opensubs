@@ -5,12 +5,12 @@ Multilingual parallel corpus based on OPUS Opensubtitles and a corpus compiler
 The corpus is based on the data from OPUS OpenSubtitles (https://opus.nlpl.eu/OpenSubtitles-v2018.php), I used the data from OPUS with Jörg Tiedemann's consent.
 It is created mainly for comparative linguistic research purposes.
 
-**MultiOpenSubs** consists of two subcorpora: **Multisubs_euro** which contains texts only in European languages, and **Multisubs_misc** which also contains languages other than European.
+**MultiOpenSubs** consists of two subcorpora: **Multiopensubs_euro** which contains texts only in European languages, and **Multiopensubs_misc** which also contains languages other than European.
 
-1) **Multisubs_euro** contains texts in **14 languages**: Bulgarian, Czech, Dutch, English, French, German, Greek, Italian, Polish, Portuguese, Romanian, Russian, Serbian, Spanish.
+1) **Multiopensubs_euro** contains texts in **14 languages**: Bulgarian, Czech, Dutch, English, French, German, Greek, Italian, Polish, Portuguese, Romanian, Russian, Serbian, Spanish.
 It contains 109000 translation units and about 790000 tokens.
 
-2) **Multisubs_misc** contains texts **also in 14 languages**: Arabic, English, French, Finnish, German, Greek, Hungarian, Italian, Polish, Portuguese, Russian, Serbian, Spanish, Turkish.
+2) **Multiopensubs_misc** contains texts **also in 14 languages**: Arabic, English, French, Finnish, German, Greek, Hungarian, Italian, Polish, Portuguese, Russian, Serbian, Spanish, Turkish.
 The fact that both corpora contain text 14 languages is a coincidence.
 It contains 92000 translation units and about 680000 tokens. 
 
