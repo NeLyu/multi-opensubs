@@ -24,6 +24,7 @@ The number of languages included in MultiSubs was determined by the amount of ma
 The script MultiCompiler allows you to **create a corpus including languages you have chosen yourself (from 60 languages available)**. When using the script you should take into account the following issue: the more languages you choose the less translational units your corpus contains, the less languages you choose the bigger is your corpus. This depends on the number of matching translations in the original collection.
 English was used as a pivot language for corpus compiling. This means that the script takes as input language pairs with English and based on the matches in English compiles the corpus.
 
+**If you are using any materials from this project please make a reference to this repository.**
 
 # REQUIREMENTS
 
